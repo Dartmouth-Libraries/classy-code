@@ -1,6 +1,6 @@
 # Classy Code: Object-Oriented Programming for Fun and Profit
 
-An introduction to Object-Oriented Programming with examples Python.
+An introduction to Object-Oriented Programming with examples in Python.
 
 ## Session description
 Have you ever gotten lost in a maze-like piece of code you wrote? Are you interested in going beyond the basics of programming and learning more about how you can design and structure a robust, extensible, and easy-to-read program?

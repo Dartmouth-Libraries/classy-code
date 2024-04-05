@@ -18,7 +18,8 @@ You should have some experience with programming in any language. Experience in 
 The repo has the following structure:
 - `ppt`: The slide deck used in the introduction
 - `img`: Images used in the notebooks
-- `code`: Notebooks going over the most important OOP concepts with code examples
+- `code`: Notebooks going over the most important OOP concepts in detail with code examples
+- `session`: Notebook containing the materials covered in the live session
 
 ### Issues and feedback
 If you run into any trouble working with these materials, have some questions about the content, or want to give general feedback, feel free to go through one of these channels to get in touch with us:
